@@ -71,7 +71,7 @@ Telecom-Customer-Churn-Prediction/
 | Class ratio | 2.76:1 majority to minority |
 | Licence | Apache 2.0 |
 
-🔗 **Dataset link:** [https://github.com/IBM/telco-customer-churn-on-icp4d](https://github.com/IBM/telco-customer-churn-on-icp4d)
+🔗 **Dataset link:** [https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv](https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv)
 
 ---
 
@@ -151,9 +151,7 @@ cd Telecom-Customer-Churn-Prediction
 ```
 
 2. **Download the dataset** from the IBM GitHub repository:
-[https://github.com/IBM/telco-customer-churn-on-icp4d](https://github.com/IBM/telco-customer-churn-on-icp4d)
-
-   Place `WA_Fn-UseC_-Telco-Customer-Churn.csv` in a `data/` folder at the root of the repository.
+[https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv](https://github.com/IBM/telco-customer-churn-on-icp4d/blob/master/data/Telco-Customer-Churn.csv)
 
 3. **Run the notebooks in order**
 
