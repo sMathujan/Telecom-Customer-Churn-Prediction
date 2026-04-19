@@ -175,10 +175,6 @@ cd Telecom-Customer-Churn-Prediction
 | **Electronic check payment** | 45% churn rate vs 15% for automatic bank transfer |
 | **Monthly charges** | Churner mean $74.44 vs non-churner mean $61.27 |
 
-### Threshold Optimisation Impact
-
-Using the optimal threshold instead of the default 0.5 for Random Forest increases Recall from 0.62 to 0.77 — a gain of 15 percentage points, representing 69 additional churners correctly identified per 2,110 test customers. This demonstrates that threshold selection is a substantive methodological choice, not a minor implementation detail.
-
 ---
 
 ## 📄 Licence
